@@ -101,7 +101,7 @@ print(add_5(10))       # 输出:20
 
 `itertools` 是 Python 的一个标准库模块，提供了许多迭代器生成工具，用于创建复杂的迭代器。以下是你提到的几个函数的用法介绍：
 
-1. **accumulate(it[, func, *, initial])**：
+1. **accumulate(iterable, func, *, initial])**：
 
    - 返回一个迭代器，它计算迭代器 `it` 中元素的累积结果。
    - `func` 是一个可选的函数，用于计算累积值，默认为加法。
@@ -114,7 +114,7 @@ print(add_5(10))       # 输出:20
 
    - 返回一个迭代器，它生成 `iterable` 中所有可能的长度为 `r` 的排列。
    - `r` 是排列中的元素数量，默认为 `iterable` 的长度。
-4. **count(start=0, step=1)**：
+4. **count(start=0, step=1)**
 
    - 返回一个迭代器，它生成一个无限的整数序列，从 `start` 开始，每次增加 `step`。
 5. **product(*iterables, repeat=1)**：
@@ -156,7 +156,6 @@ print(products)  # 输出 [(1, 3), (1, 4), (2, 3), (2, 4)]
 ```
 
 # bisect模块
-
 
 `bisect` 是 Python 的一个内置模块，它提供了一个支持二分查找算法的类 `bisect`。这个模块可以用来维护一个有序的列表，并且可以高效地插入新元素，使得新元素插入后列表依然保持有序。以下是 `bisect` 模块的一些常用功能：
 
