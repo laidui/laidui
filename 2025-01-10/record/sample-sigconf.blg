@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: sample-sigconf.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample-base.bib
+Warning--entry type for "Bornmann2019" isn't style-file defined
+--line 1612 of file sample-base.bib
+Warning--entry type for "AnzarootPBM14" isn't style-file defined
+--line 1629 of file sample-base.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--empty organization in Ablamowicz07
+Warning--empty organization in UMassCitations
+Warning--empty chapter and pages in Editor00
+Warning--page numbers missing in Editor00a
+Warning--empty author in 2004:ITE:1009386.1010128
+Warning--empty address in Knuth97
+Warning--articleno or eid field, but no numpages field, in Lee05
+Warning--page numbers missing in both pages and numpages fields in Lee05
+Warning--articleno or eid, but no pages or numpages field in Lee05
+Warning--unrecognized DOI value [99.9999/woot07-S422]
+Warning--unrecognized DOI value [99.9999/woot07-S422]
+Warning--articleno or eid field, but no numpages field, in rous08
+Warning--page numbers missing in both pages and numpages fields in rous08
+Warning--articleno or eid, but no pages or numpages field in rous08
+Warning--page numbers missing in both pages and numpages fields in SaeediJETC10
+Warning--unrecognized DOI value [99.9999/woot07-S422]
+Warning--unrecognized DOI value [99.9999/woot07-S422]
+Warning--empty organization in Thornburg01
+Warning--empty organization in TUGInstmem
+Warning--empty organization in TUGInstmem
+Warning--empty organization in CTANacmart
+You've used 38 entries,
+            6056 wiz_defined-function locations,
+            1932 strings with 26419 characters,
+and the built_in function-call counts, 34695 in all, are:
+= -- 4333
+> -- 816
+< -- 4
++ -- 257
+- -- 350
+* -- 2348
+:= -- 3429
+add.period$ -- 199
+call.type$ -- 38
+change.case$ -- 218
+chr.to.int$ -- 36
+cite$ -- 55
+duplicate$ -- 3228
+empty$ -- 2290
+format.name$ -- 353
+if$ -- 8082
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 70
+newline$ -- 391
+num.names$ -- 259
+pop$ -- 1068
+preamble$ -- 1
+purify$ -- 512
+quote$ -- 0
+skip$ -- 1190
+stack$ -- 0
+substring$ -- 2766
+swap$ -- 289
+text.length$ -- 94
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 912
+warning$ -- 21
+while$ -- 256
+width$ -- 0
+write$ -- 825
+(There were 23 warnings)

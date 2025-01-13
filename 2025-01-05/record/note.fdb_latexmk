@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1736087853.94495 "f:/Gitrepo/laidui/2025-01-05/record/note.tex" "note.pdf" "note" 1736087855.66684 0
+["pdflatex"] 1736484840.14895 "f:/Gitrepo/laidui/2025-01-05/record/note.tex" "note.pdf" "note" 1736484841.68744 0
   "c:/Windows/Fonts/msyh.ttc" 1731473947 19704352 1e10e74402e59d54499af795caf0b135 ""
   "c:/Windows/Fonts/simhei.ttf" 1651842600 9753388 6abc0fcfbaa40600f9cecca3afeb3aa7 ""
   "c:/Windows/Fonts/simsun.ttc" 1731473947 18070492 992f2bdc407dde6953c5ed83ceac9a91 ""
-  "f:/Gitrepo/laidui/2025-01-05/record/note.tex" 1736087851 1079 c9b2d98646ffa7f2ee8d5a9fd678a74b ""
+  "f:/Gitrepo/laidui/2025-01-05/record/note.tex" 1736484837 1085 d2b6e2a0a06d870ae1a4302854c7c993 ""
   "f:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1736070147 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "f:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1736072786 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "f:/texlive/2024/texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd" 1736082159 182544 bcd31d5d273400b38612a969fcab55f9 ""
@@ -39,7 +39,9 @@
   "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei5f.tfm" 1736083482 1172 7048f0a8b693444590781debe54eecbd ""
   "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei63.tfm" 1736083482 1172 fff11ea27394506a041a526a495f9652 ""
   "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei65.tfm" 1736083482 1172 c34b1545992ab0d7393a03f889ceeb86 ""
+  "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei67.tfm" 1736083482 1172 127372bbba8b4f4a65a26e565c0c6a2e ""
   "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei72.tfm" 1736083482 1172 0743ca7a73b589a0a7b7707340e6c407 ""
+  "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei80.tfm" 1736083482 1172 7c53005410278de6d612480963dd5ced ""
   "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei88.tfm" 1736083482 1172 4b5747a6c0d911e39c45f758903a60d6 ""
   "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8a.tfm" 1736083482 1172 b8090cf7ab844b8c390669cbe8997c0c ""
   "f:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong30.tfm" 1736083483 1172 87d6ba1aff8b955258f6ef7a5d8e86e5 ""
@@ -141,8 +143,8 @@
   "f:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1736083584 5531417 00d70277317efef7dfc4522e82b08df6 ""
   "f:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736083891 3347701 5a10cd3c71874af23d20e7253a1d88cc ""
   "f:/texlive/2024/texmf.cnf" 1736083547 713 e69b156964470283e0530f5060668171 ""
-  "note.aux" 1736087855 580 b3f82c682793b680ba9844b2a64cc841 "pdflatex"
-  "note.tex" 1736087851 1079 c9b2d98646ffa7f2ee8d5a9fd678a74b ""
+  "note.aux" 1736484841 586 746c17cc14e630bd1cfa615fcb8831e6 "pdflatex"
+  "note.tex" 1736484837 1085 d2b6e2a0a06d870ae1a4302854c7c993 ""
   (generated)
   "note.aux"
   "note.log"
